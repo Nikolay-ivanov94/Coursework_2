@@ -1,6 +1,6 @@
-package org.skypro.Coursework2.Java.COR.controller;
+package controller;
 
-import org.skypro.Coursework2.Java.COR.model.Question;
+import model.Question;
 import org.skypro.Coursework2.Java.COR.service.QuestionService;
 import org.springframework.web.bind.annotation.*;
 

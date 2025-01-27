@@ -1,4 +1,4 @@
-package org.skypro.Coursework2.Java.COR.model;
+package model;
 
 public class Question {
 

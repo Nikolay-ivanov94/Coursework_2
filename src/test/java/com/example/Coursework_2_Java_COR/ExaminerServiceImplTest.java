@@ -3,7 +3,7 @@ package com.example.Coursework_2_Java_COR;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
-import org.skypro.Coursework2.Java.COR.model.Question;
+import model.Question;
 
 import java.util.Arrays;
 import java.util.HashSet;
